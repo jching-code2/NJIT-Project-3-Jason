@@ -36,6 +36,10 @@ const vue_app = new Vue({
 
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
             var title = "IMBD Jason's Top 8 Movies";
+            var owner ="Jason"
+
+            var gitHub ="https://jching-code2.github.io/NJIT-Project-3-Jason/"
+
       },
       methods: {
             /* ADD FUNCTIONS/METHODS FOR STEP 7 HERE */
